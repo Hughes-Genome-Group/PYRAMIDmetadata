@@ -1,0 +1,25 @@
+####################################################################
+#
+# This file can include comment lines ( comment line starts with symbol '#' )
+#
+# First column : ID ( No special characters except underscore _  . Do not start with number. No whitespace. )
+#
+# Second column : Free text field. No "line ending" characters allowed : check with "cat researchGroups.txt" that you don't have accidental extra "enters" in there !            
+#                 For longer than one-line description, you can add comment lines below the ID (start line with '#' to make it a comment line)
+#
+####################################################################
+#
+#ID	FULL RESEARCH GROUP NAME
+AG	Anna Gloyn (Diabetes Group)
+DH	Doug Higgs (Gene regulation group)
+GEO	GEO dataset: see accession
+HD	Hal Drakesmith (Iron Metabolism Group)
+JH	Jim Hughes (Genomic Biology Group)
+JK  Julian Knight (Arthritis and AnkSp Group)
+JT  John Todd (T1D Group)
+LF	Lars Fugger (Multiple Sclerosis)
+MdB	Marella de Bruijn (Stem Cell Biology)
+RG  Richard Gibbons
+VB	Veronica Buckle
+#
+#

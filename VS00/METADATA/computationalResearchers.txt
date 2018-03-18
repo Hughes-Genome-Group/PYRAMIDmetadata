@@ -1,0 +1,29 @@
+#################################################################### 
+#
+# This file can include comment lines ( comment line starts with symbol '#' )
+# Use spaces/tabs (whitespace) as field separator. Multiple whitespaces after another are counted as "one separator"
+#
+# First column : INITIALS to use in the pyramid structure (to identify who ran the analysis of the sample)
+#
+# Second column : user name in CBRG system
+#
+# Third column : user full name (underscore as name separator)
+#
+####################################################################
+#
+#Init	Username	Full_name
+jt	telenius	Jelena_Telenius
+jh	jhughes		Jim_Hughes
+ms	msuciu		Maria_Suciu
+dd	ddownes		Damien_Downes
+mg	mgosden		Matt_Gosden
+mo	oudelaar	Marieke_Oudelaar
+rs	rschwess	Ron_Schwessinger
+ml	mlarke		Martin_Larke
+jk	jkerry		Jon_Kerry
+sh	shill		Steph_Hill
+ln	nussbaum	Lea_Nussbaum
+ch	charrold	Caz_Harrold
+hf	hfrancis	Helena_Francis
+#
+#

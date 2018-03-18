@@ -1,0 +1,15 @@
+####################################################################
+#
+#       This file can include comment lines ( comment line starts with symbol '#' )
+#
+#       Each antibody has to have a 'desc' line :
+#       First column : 'desc'
+#       Second column : name  ( No special characters except underscore___ . Do not start with number. No whitespace. )
+#       Third column : description (free text field)
+#       
+####################################################################
+#
+#	ID     	ANTIBODY DESCRIPTION
+desc	IgG	IgG - INPUT by using IgG instead of sonication
+#
+#

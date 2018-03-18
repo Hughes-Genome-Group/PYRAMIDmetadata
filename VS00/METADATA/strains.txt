@@ -1,0 +1,19 @@
+####################################################################
+#
+# This file can include comment lines ( comment line starts with symbol '#' )
+#
+# First column : ID ( No special characters except underscore _  . Do not start with number. No whitespace. )
+#
+# Second column : Free text field. No "line ending" characters allowed : check with "cat strains.txt" that you don't have accidental extra "enters" in there !
+#                 For longer than one-line description, you can add comment lines below the ID (start line with '#' to make it a comment line)
+#
+####################################################################
+#
+#ID	STRAIN DESCRIPTION
+Balb	BalbC strain
+C57	C57 black six
+F1	generic mixed strain (F1)
+C57CBA	C57 black six / CBA : F1 mixed strain
+129	129 strain
+#
+#

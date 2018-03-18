@@ -1,0 +1,7 @@
+#ID	DATA TYPE DESCRIPTION
+ATAC	Transposase accessibility (ATAC)
+DNaseI	DNaseI hypersensitivity
+ChIP	Chromatine ImmunoPrecipitation
+fATAC	fast ATAC
+#
+#

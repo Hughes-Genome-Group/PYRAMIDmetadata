@@ -1,0 +1,66 @@
+####################################################################
+#
+# This file can include comment lines ( comment line starts with symbol '#' )
+#
+# First column : ID ( No special characters except underscore _  . Do not start with number. No whitespace. )
+#
+# Second column : Free text field. No "line ending" characters allowed : check with "cat cellModels.txt" that you don't have accidental extra "enters" in there ! 
+#                 For longer than one-line description, you can add comment lines below the ID (start line with '#' to make it a comment line)
+#
+####################################################################
+#
+#ID		CELL LINE DESCRIPTION ( tissue, differentiation, cell line, + modifications such as "humanized"  )
+LCL		EBV Imortalized B cells (LCL - lymphoblast cell line)
+EndoC		Insulin secreting EndoC-BH2 human beta cells	
+HepG2		Hepatocyte human cells
+HUDEP		Human Erythroid Progenitor
+mES		Mouse embryonic stem cells		
+#
+CD71		CD71 positive cells - undetermined tissue
+CD71_bm		CD71 positive cells BONE MARROW
+CD71_fl		CD71 positive cells FETAL LIVER
+CD71_spleen	CD71 positive cells from APH SPLEEN
+#
+CD71N		CD71 negative cells - undetermined tissue
+CD71N_bm	CD71 negative cells BONE MARROW
+CD71N_fl	CD71 negative cells FETAL LIVER
+CD71N_spleen	CD71 negative cells from APH SPLEEN
+#
+CD71D		CD71 depleted cells - undetermined tissue        
+CD71D_bm	CD71 depleted cells BONE MARROW
+CD71D_fl	CD71 depleted cells FETAL LIVER
+CD71D_spleen	CD71 depleted cells from APH SPLEEN 
+#
+ter119		Ter119 positive cells - undetermined tissue
+ter119_bm	Ter119 positive cells BONE MARROW
+ter119_fl	Ter119 positive cells FETAL LIVER
+ter119_spleen	Ter119 positive cells from APH SPLEEN
+#
+ter119N		Ter119 negative cells - undetermined tissue
+ter119N_bm	Ter119 negative cells BONE MARROW
+ter119N_fl	Ter119 negative cells FETAL LIVER
+ter119N_spleen	Ter119 negative cells from APH SPLEEN
+#
+ter119D		Ter119 depleted cells - undetermined tissue 
+ter119D_bm	Ter119 depleted cells BONE MARROW
+ter119D_fl	Ter119 depleted cells FETAL LIVER
+ter119D_spleen	Ter119 depleted cells from APH SPLEEN
+#
+unsorted_fl	Unsorted cells FETAL LIVER
+#
+hES	human embryonic stem cells
+DE	definitive endoderm
+CD4	T-cell Helper
+CD8	T-cell Cytotoxic 
+CD14	Macrophage
+CD19	B-cell
+NKC	Natural Killer Cell
+CD34jf	CD34 differentiated in Jan Franye Protocol
+CD34sm	CD34 differentiated in Sachith Mettananda Protocol         
+Fibach	PBMC differentiated in Fibach Protocol
+CD71	EB derived CD71 cells
+Huvec	Human Umbilical vein endothelial cells
+L929	Fibroblast cell line
+LSEC	Liver Sinusoidal Endothelial Cell
+#
+#

@@ -1,0 +1,26 @@
+#################################################################### 
+#
+# This file can include comment lines ( comment line starts with symbol '#' )
+#
+# First column : ID ( No special characters except underscore _  . Do not start with number. No whitespace. )
+#
+# Second column : Free text field. No "line ending" characters allowed : check with "cat experimentalResearchers.txt" that you don't have accidental extra "enters" in there ! 
+#                 For longer than one-line description, you can add comment lines below the ID (start line with '#' to make it a comment line)
+#
+####################################################################
+#
+#ID	Name of the CONTACT in the GEO submission (not the contributor)
+#
+GEO	GEO data: see Comments file for authorship details
+AFB	Anais Flore Bardet, FMI, Switzerland, D Schübeler research group
+LB	Laurie A Boyer, Massachusetts Institute of Technology, lboyer@mit.edu
+MAG	Matthieu Gérard, Mammalian Epigenomics lab, I2BC, CEA, matthieu.gerard@cea.fr
+MPR	Maciej Paszkowski-Rogacz, Technische Universität Dresden, UCC / Medical Faculty and University Hospital Carl Gustav Carus, Medical Systems Biology (Prof. F Buchholz)
+BW_BARC	Bill Wong, Whitehead Institute, Massachusetts Institute of Technology, pwong@wi.mit.edu
+TJ_BROAD	Tarjei S. Mikkelsen, Broad Institute, Massachusetts Institute of Technology
+ENCODE	ENCODE Consortium data
+CL	Charles Lin, Massachusetts Institute of Technology, chazlin@mit.edu
+YOUN	Richard A Young, Whitehead Institute, Massachusetts Institute of Technology, young_computation@wi.mit.edu
+DS 	Dirk Schuebeler, Friedrich Miescher Institute for Biomedical Research, University of Basel
+#
+#

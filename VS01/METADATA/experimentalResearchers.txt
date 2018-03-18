@@ -1,0 +1,45 @@
+#################################################################### 
+#
+# This file can include comment lines ( comment line starts with symbol '#' )
+#
+# First column : ID ( No special characters except underscore _  . Do not start with number. No whitespace. )
+#
+# Second column : Free text field. No "line ending" characters allowed : check with "cat experimentalResearchers.txt" that you don't have accidental extra "enters" in there ! 
+#                 For longer than one-line description, you can add comment lines below the ID (start line with '#' to make it a comment line)
+#
+####################################################################
+#
+#ID	Name
+AK	Andy King
+BG	Bryony Graham
+CH 	Caz Harrold
+CS 	Caroline Scott
+DD	Damien Downes
+DG	Damien & Matt together
+DH	Deborah Hay
+DO	Dominic Owens
+GEO	GEO dataset: see accession
+hf	Hele Francis
+JB	Joe Bowness
+JD	Jess Davies
+LG	Lucas Greder
+LH	Lars Hanssen
+LN	Lea Nussbaum
+MG 	Matt Gosden
+MK	Mira Kassouf
+MKO	Monika Kowalczyk
+ML	Martin Larke
+MLY	Magnus Lynch
+MO	Marieke Oudelaar
+MS	Maria Suciu
+MT	Matthias Turner
+MZ	Monica Kowalcyzk
+PH  Priscila Hirchfeld
+RS	Ron Schwessinger
+SH	Steph Hill
+SP	Sant-Rayn Pashrichaa
+ST	Soren Thomsen
+TC  Tony Cutler
+VN  Vibe Nylander
+#
+#

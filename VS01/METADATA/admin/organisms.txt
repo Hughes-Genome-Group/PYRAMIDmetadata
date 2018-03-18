@@ -1,0 +1,5 @@
+#ID	DATA TYPE DESCRIPTION
+human	Homo sapiens
+mouse	Mus musculus
+#
+#

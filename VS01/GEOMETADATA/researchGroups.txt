@@ -1,0 +1,24 @@
+####################################################################
+#
+# This file can include comment lines ( comment line starts with symbol '#' )
+#
+# First column : ID ( No special characters except underscore _  . Do not start with number. No whitespace. )
+#
+# Second column : Free text field. No "line ending" characters allowed : check with "cat researchGroups.txt" that you don't have accidental extra "enters" in there !            
+#                 For longer than one-line description, you can add comment lines below the ID (start line with '#' to make it a comment line)
+#
+####################################################################
+#
+#ID	Name of the LAB (or group leader) in the GEO submission
+DS	D Schübeler research group, FMI, Switzerland
+FB	prof F Buchholz, Medical Systems Biology lab, Technische Universität Dresden, UCC / Medical Faculty and University Hospital Carl Gustav Carus
+GEO	GEO data: see Comments file for author details
+LB	Laurie A Boyer, Massachusetts Institute of Technology, lboyer@mit.edu
+MG	Matthieu Gérard, Mammalian Epigenomics lab, I2BC, CEA, matthieu.gerard@cea.fr
+BARC	BaRC Group, Whitehead Institute, wibr-bioinformatics@wi.mit.edu
+BERN	Berstein Laboratory, MIT, Harvard
+REN	Bing Ren lab, ENCODE, UCSD School of Medicine 
+HAR	Hardison lab, ENCODE, Penn State University
+YOUN	Richard A. Young, Massachusetts Institute of Technology,  http://web.wi.mit.edu/young/
+#
+#

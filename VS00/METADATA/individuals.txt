@@ -1,0 +1,29 @@
+#################################################################### 
+#
+# This file can include comment lines ( comment line starts with symbol '#' )
+#
+# First column : ID ( No special characters except underscore _  . Do not start with number. No whitespace. )
+#
+# Second column : Free text field. No "line ending" characters allowed : check with "cat individuals.txt" that you don't have accidental extra "enters" in there ! 
+#                 For longer than one-line description, you can add comment lines below the ID (start line with '#' to make it a comment line)
+#
+####################################################################
+#
+#
+#ID	HUMAN DATA SOURCE (BIOLOGICAL DONOR)
+#
+# Do not give any real patient identities or database keys here !!!
+# Treat this file as "publicly available" - column1 is available in data hubs, and column2 is not exactly "safe" storage space either !
+#
+CW	Anonymous female normal blood donor
+DH	Anonymous male normal blood donor
+DM	Anonymous male normal blood donor
+JT	Anonymous female normal blood donor
+# 	Hey people do NOT write real names here please (read above notes)
+JH	Guineapig 1 or something
+#	Hey people do NOT write real names here please
+ST	Guineapig 2 or something
+#	Hey people do NOT write real names here please
+CD	Guineapig 3 or something
+#
+#

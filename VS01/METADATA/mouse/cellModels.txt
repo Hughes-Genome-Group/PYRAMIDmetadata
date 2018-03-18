@@ -1,0 +1,38 @@
+####################################################################
+#
+#	This file can include comment lines ( comment line starts with symbol '#' )
+#
+#       Each cell type has to have a 'desc' line :
+#       First column : 'desc'
+#       Second column : ID  ( No special characters except underscore _  . Do not start with number. No whitespace. )
+#       Third column : description (free text field)
+#       
+#       Cell type can have (optional) 'diff' line, listing possible differentiation states :
+#       First column : 'diff'
+#       Second column : ID  ( No special characters except underscore _  . Do not start with number. No whitespace. )
+#       Third, fourth, etc columns :  Differentiation states.  ( No special characters except underscore _  . Do not start with number. No whitespace. )
+#
+#	All cell types have automatically diff states 'UNDIFF' and 'UNTREATED' (list the other ones in this file)
+#       
+####################################################################
+#
+# 	ID		CELL LINE DESCRIPTION ( cell line, + modifications such as "humanized"  )
+desc	mES		Mouse embryonic stem cells
+#
+desc	CD71		CD71 positive cells
+desc	CD71N		CD71 negative cells
+diff    CD71N       d7
+desc	CD71D		CD71 depleted cells
+diff    CD71D       d7
+desc	ter119		Ter119 positive cells
+desc	ter119N		Ter119 negative cells
+desc	ter119D		Ter119 depleted cells
+#
+desc	unsorted	Unsorted cells
+#
+desc	DE	definitive endoderm
+#
+desc	CD71eb	EB derived CD71 cells
+diff	CD71eb	d7
+#
+#

@@ -1,0 +1,45 @@
+####################################################################
+#
+#	This file can include comment lines ( comment line starts with symbol '#' )
+#
+#       Each cell type has to have a 'desc' line :
+#       First column : 'desc'
+#       Second column : ID  ( No special characters except underscore _  . Do not start with number. No whitespace. )
+#       Third column : description (free text field)
+#       
+#       Cell type can have (optional) 'diff' line, listing possible differentiation states :
+#       First column : 'diff'
+#       Second column : ID  ( No special characters except underscore _  . Do not start with number. No whitespace. )
+#       Third, fourth, etc columns :  Differentiation states.  ( No special characters except underscore _  . Do not start with number. No whitespace. )
+#
+#	All cell types have automatically diff states 'UNDIFF' and 'UNTREATED' (list the other ones in this file)
+#       
+####################################################################
+#
+# 	ID		CELL LINE DESCRIPTION ( cell line, + modifications such as "humanized"  )
+desc	LCL		EBV Imortalized B cells (LCL - lymphoblast cell line)
+desc	EndoC		Insulin secreting EndoC-BH2 human beta cells	
+desc	HepG2		Hepatocyte human cells
+desc	HUDEP		Human Erythroid Progenitor
+diff	HUDEP		d0      d3      d7  d10 
+desc	hESC		H1-hESC Human embryonic stem cells		
+desc	CD4	T-cell Helper
+desc	CD8	T-cell Cytotoxic 
+desc	CD14	Macrophage
+desc	CD19	B-cell
+desc	NKC	Natural Killer Cell
+desc    CD34    CD34 undifferentiated
+diff    CD34    d0
+desc	CD34jf	CD34 differentiated in Jan Franye Protocol
+diff	CD34jf	d7  d10      d13      d17
+desc	CD34sm	CD34 differentiated in Sachith Mettananda Protocol         
+diff	CD34sm	d3  d4  d5  d7  d10      d13      d16
+desc    CD34mb  CD34 differentiated in Marjorie Brand Protocol
+diff    CD34mb  d4  d8  d10 d11 d12 d16
+desc	Fibach	PBMC differentiated in Fibach Protocol
+diff	Fibach	d10      d13      d16 
+desc	Huvec	Human Umbilical vein endothelial cells
+desc	L929	Fibroblast cell line
+desc	LSEC	Liver Sinusoidal Endothelial Cell
+#
+#

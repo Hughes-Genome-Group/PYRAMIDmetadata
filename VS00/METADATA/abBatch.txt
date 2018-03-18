@@ -1,0 +1,49 @@
+####################################################################
+#
+# This file can include comment lines ( comment line starts with symbol '#' )
+#
+# First column : ID ( No special characters except underscore _  . Do not start with number. No whitespace. )
+#
+# Second column : Free text field. No "line ending" characters allowed : check with "cat abBatch.txt" that you don't have accidental extra "enters" in there ! 
+#                 For longer than one-line description, you can add comment lines below the ID (start line with '#' to make it a comment line)
+#
+####################################################################
+#
+#ID     ANTIBODY BATCH DESCRIPTION (to which antibody this batch number relates to)
+#
+# -----------
+# ABCAM
+# -----------
+ab11852	GATA1 Abcam
+ab8580	H3K4me3 Abcam
+ab992	Rad21 Abcam
+ab4729	H3K27ac Abcam
+# -----------
+#CellSignaling
+# -----------
+9733	H3K27me3 Cell Signaling
+5246	Ezh2 Cell Signaling
+# -----------              
+# Millipore
+# ----------- 
+07473	H3K4me1 Millipore
+07436	H3K4me3 Millipore
+# -----------              
+# SantaCruz
+# ----------- 
+H3115	Pol2_pan SantaCruz
+SC477	NFE2 SantaCruz
+SC56767	PolII SantaCruz
+# -----------
+# Input
+# -----------
+Input	No antibody - used as INPUT
+# -----------
+# Other
+# -----------
+Unknown	Unknown, old data
+CRSP1	CRSP1/TRAP220 Bethyl
+#
+#
+
+

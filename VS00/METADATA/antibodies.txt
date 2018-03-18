@@ -1,0 +1,36 @@
+####################################################################
+#
+# This file can include comment lines ( comment line starts with symbol '#' )
+#
+# First column : ID ( No special characters except underscore _  . Do not start with number. No whitespace. )
+#
+# Second column : Free text field. No "line ending" characters allowed : check with "cat antibodies.txt" that you don't have accidental extra "enters" in there ! 
+#                 For longer than one-line description, you can add comment lines below the ID (start line with '#' to make it a comment line)
+#
+####################################################################
+#
+#ID     	ANTIBODY DESCRIPTION
+CTCF		CTCF
+H3K4me1		Histone3 Lysine4 monomethylation
+H3K4me3		Histone3 Lysine4 trimethylation
+H3K9ac		Histone3 Lysine9 acetylation
+H3K27ac		Histone3 Lysine27 acetylation
+H3K27me3	Histone3Lysine27Trimethylation, repressive/bivalent/Polycomb
+H3K36me3	Histone3 Lysine36 trimethylation
+H4K16ac		Histone4 Lysine16 acetylation
+Input		no antibody - used as input
+KLF1		KLF1
+Pol2_pan	DNA-polymerase 2
+RAD21		Cohesin
+NFE2		nuclear factor, erythroid 2
+GATA1		GATA1
+Ezh2		Ezh2
+Smc1		Smc1, subunit of cohesin
+Smc3		Smc3, subunit of cohesin
+TAL1		TAL1, formerly SCL
+Nipbl		Nipbl, cohesin loading protein
+PolII		DNA-polymerase II
+Med12		Med12, subunit of mediator complex
+Med1		Med1, subunit of mediator complex
+#
+#
