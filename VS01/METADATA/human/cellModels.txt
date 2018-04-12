@@ -39,7 +39,6 @@ diff    CD34mb  d4  d8  d10 d11 d12 d16
 desc	Fibach	PBMC differentiated in Fibach Protocol
 diff	Fibach	d10      d13      d16 
 desc	Huvec	Human Umbilical vein endothelial cells
-desc	L929	Fibroblast cell line
 desc	LSEC	Liver Sinusoidal Endothelial Cell
 #
 #

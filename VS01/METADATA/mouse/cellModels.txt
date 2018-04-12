@@ -17,22 +17,26 @@
 ####################################################################
 #
 # 	ID		CELL LINE DESCRIPTION ( cell line, + modifications such as "humanized"  )
-desc	mES		Mouse embryonic stem cells
+desc	E14		Mouse embryonic stem cells, E14
+desc	other_es	Other mouse embryonic stem cell line
 #
 desc	CD71		CD71 positive cells
+diff	CD71	EXPANDED	d7	24hrs	30hrs
 desc	CD71N		CD71 negative cells
-diff    CD71N       d7
+diff    CD71N	EXPANDED	d7	24hrs	30hrs
 desc	CD71D		CD71 depleted cells
-diff    CD71D       d7
+diff    CD71D	EXPANDED	d7	24hrs	30hrs
 desc	ter119		Ter119 positive cells
+diff	ter119	EXPANDED	d7	24hrs	30hrs
 desc	ter119N		Ter119 negative cells
+diff	ter119N	EXPANDED	d7	24hrs	30hrs
 desc	ter119D		Ter119 depleted cells
+diff	ter119D	EXPANDED	d7	24hrs	30hrs
 #
 desc	unsorted	Unsorted cells
+diff	unsorted	E10.5
 #
-desc	DE	definitive endoderm
+desc	L929	Mouse fibroblast cell line, L929
 #
-desc	CD71eb	EB derived CD71 cells
-diff	CD71eb	d7
 #
 #

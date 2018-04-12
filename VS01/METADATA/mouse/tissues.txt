@@ -11,8 +11,12 @@
 #
 #ID	TISSUE NAME
 bm	Bone marrow
-fl	Fetal liver
+fl12.5	Fetal liver E12.5
+fl14.5	Fetal liver E14.5
 spleen	APH spleen
-prim    Day 10.5 embryo erythroid cells
+prim    Embryo-derived erythroid cells
+es	Mouse embryonic stem cells
+eb	Embroid bodies
+fib	Fibroblast
 #
 #

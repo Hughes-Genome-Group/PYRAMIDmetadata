@@ -10,10 +10,12 @@
 ####################################################################
 #
 #ID	STRAIN DESCRIPTION
-Balb	BalbC strain
-C57	C57 black six
+BalbC	BalbC strain
+C57Bl6	C57 black six
 F1	generic mixed strain (F1)
 C57CBA	C57 black six / CBA : F1 mixed strain
 129	129 strain
+Unknown	unknown strain
+129Ola	129/Ola strain
 #
 #
