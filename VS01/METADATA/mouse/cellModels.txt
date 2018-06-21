@@ -23,9 +23,9 @@ desc	other_es	Other mouse embryonic stem cell line
 desc	CD71		CD71 positive cells
 diff	CD71	EXPANDED	d7	24hrs	30hrs
 desc	CD71N		CD71 negative cells
-diff    CD71N	EXPANDED	d7	24hrs	30hrs
+diff  CD71N	EXPANDED	d7	24hrs	30hrs
 desc	CD71D		CD71 depleted cells
-diff    CD71D	EXPANDED	d7	24hrs	30hrs
+diff  CD71D	EXPANDED	d7	24hrs	30hrs
 desc	ter119		Ter119 positive cells
 diff	ter119	EXPANDED	d7	24hrs	30hrs
 desc	ter119N		Ter119 negative cells
@@ -37,6 +37,7 @@ desc	unsorted	Unsorted cells
 diff	unsorted	E10.5
 #
 desc	L929	Mouse fibroblast cell line, L929
+diff  INDUCED
 #
 #
 #
