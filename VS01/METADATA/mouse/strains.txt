@@ -17,5 +17,6 @@ C57CBA	C57 black six / CBA : F1 mixed strain
 129	129 strain
 Unknown	unknown strain
 129Ola	129/Ola strain
+C3HAn   C3H/An strain
 #
 #
