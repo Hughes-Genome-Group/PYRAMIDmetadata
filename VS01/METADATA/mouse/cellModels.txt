@@ -37,7 +37,7 @@ desc	unsorted	Unsorted cells
 diff	unsorted	E10.5
 #
 desc	L929	Mouse fibroblast cell line, L929
-diff  INDUCED
+diff  L929  INDUCED
 #
 #
 #
